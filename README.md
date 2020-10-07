@@ -15,4 +15,4 @@ by using Proteus I did a simulation to test my code to save money and time.
 
 Important: 
 you should read the comments carefully, 
-also be a ware if you didn't write data to RTC you will get empty data when you try to display it on LCD.
+also be a ware if you didn't write data to RTC you will get empty data when you try to display it on LCD (see line 122 and 123).
